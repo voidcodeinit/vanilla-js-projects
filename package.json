@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-js-projects",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A collection of Vanilla JavaScript projects and practice exercises.",
+  "keywords": [
+    "javascript",
+    "vanilla-javascript",
+    "html",
+    "css",
+    "dom",
+    "api",
+    "frontend",
+    "web-development"
+  ],
+  "license": "MIT"
+}
